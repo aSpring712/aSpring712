@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @aSpring712
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, Python, JSP, git&github
+- 🌱 I’m currently learning Java, Spring Framework, JSP, git & github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
