@@ -1,2 +1,2 @@
-aSpring712/aSpring712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+My name is Bomi Kwon.
+I am a fullstack developer.
